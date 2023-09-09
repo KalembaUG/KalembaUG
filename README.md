@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KalembaUG
 - 👀 I’m interested in android alot
-- 🌱 I’m currently developing android apps
-- 💞️ I’m looking to collaborate on android projects
+- 🌱 I’m currently developing android and IOS apps with flutter frame work and dart
+- 💞️ I’m looking to collaborate on flutter projects
 - 📫 you can get me at kalembajamil01@gmail.com
 
 <!---
